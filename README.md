@@ -247,29 +247,6 @@ A quantidade final de casos de teste será definida após a análise detalhada d
 
 ---
 
-# Artefatos desta Etapa
-
-Os documentos relacionados aos requisitos REQ_01 e REQ_02 serão organizados da seguinte forma:
-
-```text
-01-Requisitos/
-│
-├── Engenharia_de_Requisitos.xlsx
-├── Requisitos_Funcionais.md
-└── Regras_de_Negocio.md
-│
-03-Casos-de-Teste/
-└── Casos-de-Teste.xlsx
-│
-06-Evidencias/
-├── REQ_01-Cadastro-e-Acesso/
-└── REQ_02-Visao-Geral/
-```
-
-Conforme o projeto avançar, novos artefatos serão adicionados ao repositório.
-
----
-
 # Critérios de Análise
 
 Durante a execução dos testes serão observados principalmente:
